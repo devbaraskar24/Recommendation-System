@@ -1,2 +1,2 @@
 # Recommendation-System
-Movie Recommendation project using the imdb top 5k movies data set.
+Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
